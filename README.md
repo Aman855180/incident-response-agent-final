@@ -194,8 +194,9 @@ incident-response-agent/
 │   ├── test_core.py
 │   └── run_model_comparison.py
 ├── report/
-│   ├── research_report.md
-│   └── assets/
+├── research_report.md
+├── research_report.pdf
+└── assets/
 │       ├── architecture.png
 │       └── terminal_run.png
 └── presentation/
